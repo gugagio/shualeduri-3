@@ -1,6 +1,6 @@
 const user = [
-    {name: 'gvanca ' , age: 22},
-    {name: 'xatia', age:20}
+    {name: 'giorgi ' , age: 25},
+    {name: 'nika', age:22}
 ];
 
 const sumAge = user.reduce((el, sum) => {
